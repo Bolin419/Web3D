@@ -1,0 +1,68 @@
+{
+    "pageTextData": [
+		{
+			"title": "Coca Cola Great Britain",
+			"subTitle": "Founded in 1886 Dr John S Pemberton",		
+			"description": "The Coca Cola Company is the world's leading manufacturer, marketer and distributor of non-alcoholic beverage concentrates and syrups, and produces nearly 400 brands."
+		},
+		{
+			"title": "Fanta",
+			"subTitle": "Germany, 1940",		
+			"description": "Fanta is manufactured by Coca Cola for international markets. It is best known as orange soda, although it comes in grape, lemon, lime and other flavors. Until it comes in banana, orange is this monkey's flavor of choice. Fanta was born in the austerity of post-war Germany, when the Coca-Cola company had to use sugar beet rather than cane to sweeten it, and the name is based on ‘Fantasie’."
+		},
+		{
+			"title": "Coke",
+			"subTitle": "New York Harbour, 1886",		
+			"description": "On May 8, 1886, Dr. John Pemberton sold the first glass of Coca-Cola at Jacobs' Pharmacy in downtown Atlanta. Serving nine drinks per day in its first year, Coca-Cola was new refreshment in its beginning. See the story here of how it all began."
+		},
+		{
+			"title": "Costa",
+			"subTitle": "London, 1971",		
+			"description": " Costa Coffee was founded in London in 1971 by two brothers Bruno and Sergio Costa as a wholesale operation supplying roasted coffee to caterers and specialist Italian coffee shops. Acquired by Whitbread in 1995, it was sold in 2019 to The Coca-Cola Company in a deal worth £3.9bn, and has grown to 3,401 stores across 31 countries and 18,412 employees. The business has 2,121 UK restaurants, over 6,000 Costa Express vending facilities and a further 1,280 outlets overseas (460 in China)."
+		},
+		{
+			"x3dModelTitle": "Fanta X3D Model",
+			"x3dCreationMethod": "This X3D model of the coke can has been created in 3ds Max, exported to VRML97 and converted, using the instantreality transcoders, to X3D for display online.",
+			"title": "History of Fanta",
+			"subTitle": "From World War 2",		
+			"description": "In the period leading up to World War II, between 1930 and 1936, Coca-Cola set up a division of the company in Germany, and continued that venture during the war. It recreated its image as a German company and allowed the Germans to produce all but two, secret, Coca-Cola ingredients in their own factories. In 1941 the German company's president, Max Keith, developed Fanta orange soda using orange flavoring and all the German-made Coke ingredients. Despite the increasing devastation caused by Allied bombing, for most the war the German Coke company maintained profitable annual sales figures of about sixty million bottles."
+		},
+		{
+			"x3dModelTitle": "Coke X3D Model",
+			"x3dCreationMethod": "This X3D model of the Coca-Cola bottole has been created in 3ds Max, exported to VRML97 and converted, using the instantreality transcoders, to X3D for display online.",
+			"title": "Coke",
+			"subTitle": "First introduced in 1886",		
+			"description": "The product that has given the world its best-known taste was born in Atlanta, Georgia, on May 8, 1886. Dr. John Stith Pemberton, a local pharmacist, produced the syrup for Coca-Cola, and carried a jug of the new product down the street to Jacobs' Pharmacy, where it was sampled, pronounced 'excellent' and placed on sale for five cents a glass as a soda fountain drink. Carbonated water was teamed with the new syrup to produce a drink that was at once 'Delicious and Refreshing', a theme that continues to echo today wherever Coca-Cola is enjoyed.."
+		},
+        {
+			"x3dModelTitle": "Costa X3D Model",
+			"x3dCreationMethod": "This X3D model of the Costa coffee cup has been created in 3ds Max, exported to VRML97 and converted, using the instantreality transcoders, to X3D for display online.",
+			"title": "Costa",
+			"subTitle": "London, born and blended since 1971",		
+			"description": "The Costa Coffee story began back in 1971 when Sergio and Bruno arrived in London with a burning desire to make great tasting coffee a part of everyday life.Setting up a small roastery in Fenchurch Street, they committed to crafting the finest quality coffee.It was here the Costa brothers blind-tested 112 variations of coffee before they tasted one good enough to be our signature blend. They named it ‘Mocha Italia’ and it remains our signature blend to this day."
+		},
+		{
+			"galleryTitle": "3D Images",
+			"galleryDescription": "You should consider rendering your 3D Image Gallery objects in 3ds Max."
+		},
+		{
+			"CameraTitle": "Camera Views",
+			"CameraSubtitle": "These buttons select a range of X3D model viewpoints"
+		},
+		{
+			"AnimationTitle": "Animation Options",
+			"AnimationSubtitle": "These buttons select a range of X3D animation options"
+		},
+
+		{
+			"RenderTitle": "Render and Lighting Options",
+			"RenderSubtitle": "These buttons select a limited number of render and lighting options; use the dropdown menus for more options"
+		},
+		{
+			"AboutTitle":"PURPOSE AND VISION",
+			"AboutSubtitle":"Our Purpose:Refresh the world. Make a difference.",
+			"AboutDescription":"Our vision is to craft the brands and choice of drinks that people love, to refresh them in body & spirit. And done in ways that create a more sustainable business and better shared future that makes a difference in people’s lives, communities and our planet."
+		}
+
+	]
+}
